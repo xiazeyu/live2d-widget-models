@@ -1,0 +1,42 @@
+{
+  "name": "live2d-widget-models",
+  "version": "1.0.0",
+  "description": "install all live2d-widget.js models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiazeyu/live2d-widget-models.git"
+  },
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/xiazeyu/live2d-widget-models/issues"
+  },
+  "homepage": "https://github.com/xiazeyu/live2d-widget-models#readme",
+  "dependencies": {
+    "live2d-widget-model-chitose": "^1.0.0",
+    "live2d-widget-model-epsilon2_1": "^1.0.0",
+    "live2d-widget-model-gf": "^1.0.0",
+    "live2d-widget-model-haru01": "^1.0.0",
+    "live2d-widget-model-haru02": "^1.0.0",
+    "live2d-widget-model-haruto": "^1.0.0",
+    "live2d-widget-model-hibiki": "^1.0.0",
+    "live2d-widget-model-hijiki": "^1.0.0",
+    "live2d-widget-model-izumi": "^1.0.0",
+    "live2d-widget-model-koharu": "^1.0.0",
+    "live2d-widget-model-miku": "^1.0.0",
+    "live2d-widget-model-ni-j": "^1.0.0",
+    "live2d-widget-model-nico": "^1.0.0",
+    "live2d-widget-model-nietzsche": "^1.0.0",
+    "live2d-widget-model-nipsilon": "^1.0.0",
+    "live2d-widget-model-nito": "^1.0.0",
+    "live2d-widget-model-shizuku": "^1.0.0",
+    "live2d-widget-model-tororo": "^1.0.0",
+    "live2d-widget-model-tsumiki": "^1.0.0",
+    "live2d-widget-model-unitychan": "^1.0.0",
+    "live2d-widget-model-wanko": "^1.0.0",
+    "live2d-widget-model-z16": "^1.0.0"
+  }
+}
