@@ -1,8 +1,7 @@
 {
   "name": "live2d-widget-model-haruto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "haruto live2d model for live2d-widget.js",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +14,8 @@
     "url": "https://github.com/xiazeyu/live2d-widget-models/issues"
   },
   "homepage": "https://github.com/xiazeyu/live2d-widget-models#readme",
-  "dependencies": {},
+  "dependencies": {
+    "live2d-widget": "3.x"
+  },
   "devDependencies": {}
 }
