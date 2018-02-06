@@ -1,6 +1,15 @@
 # live2d-widget-models
 
-**install all live2d-widget.js models!**
+The storage of live2d models
+
+## Useage
+
+### Install all models
+use `npm install live2d-widget-models`
+
+### Install seperated models
+use `npm install {packagename}`
+The package name is the folder name in `packages/`
 
 ## Releated projects
 
