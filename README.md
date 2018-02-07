@@ -5,7 +5,8 @@ The storage of live2d models
 ## Useage
 
 ### Install all models
-use `npm install live2d-widget-models`
+~~use `npm install live2d-widget-models`~~
+PLEASE INSTALL MANUALLY, THIS PACKAGE IS DEPRECATED BECAUSE IT WON'T ADD DEPENDENCIES ON YOUR PRODUCTION ENVIRONMENT.
 
 ### Install seperated models
 use `npm install {packagename}`
