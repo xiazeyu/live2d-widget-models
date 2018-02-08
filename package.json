@@ -1,6 +1,6 @@
 {
   "name": "live2d-widget-models",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "install all live2d-widget.js models",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,8 +19,7 @@
     "live2d-widget-model-chitose": "latest",
     "live2d-widget-model-epsilon2_1": "latest",
     "live2d-widget-model-gf": "latest",
-    "live2d-widget-model-haru01": "latest",
-    "live2d-widget-model-haru02": "latest",
+    "live2d-widget-model-haru": "latest",
     "live2d-widget-model-haruto": "latest",
     "live2d-widget-model-hibiki": "latest",
     "live2d-widget-model-hijiki": "latest",
