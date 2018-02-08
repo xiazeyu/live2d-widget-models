@@ -1,7 +1,7 @@
 {
-  "name": "live2d-widget-model-haru01",
-  "version": "1.0.2",
-  "description": "haru01 live2d model for live2d-widget.js",
+  "name": "live2d-widget-model-haru",
+  "version": "1.0.0",
+  "description": "haru live2d model for live2d-widget.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
